@@ -1,1 +1,84 @@
+.header {
+  width: 100vw;
+  height: 8vh;
+  left: 0px;
+  top: 0px;
+
+  background: #086e14;
+}
+
+.header {
+  display: flex;
+  justify-content: center;
+}
+.header--title {
+  font-weight: 500;
+  line-height: 18px;
+  letter-spacing: -0.075em;
+  color: #ffffff;
+}
+
+.header--globe {
+  height: 1.1em;
+  margin-right: 10px;
+}
+
+.journal {
+  margin: 30px auto;
+  max-width: 700px;
+  display: flex;
+}
+
+.journal--image {
+  width: 150px;
+  height: 200px;
+}
+.journal--details {
+    margin-left: 20px
+}
+
+.journal--links {
+  
+  font-weight: 400;
+  font-size: 0.8em;
+  line-height: 12px;
+  /* identical to box height */
+
+  text-decoration-line: underline;
+
+  color: #918e9b;
+}
+.journal--location{
+    font-weight: 400;
+font-size: 1.5em;
+line-height: 12px;
+letter-spacing: 0.17em;
+
+color: #2B283A;
+}
+.journal--locater{
+    height: 1em;
+}
+
+.journal--date{
+    font-weight: 700;
+font-size: 0.9em;
+line-height: 12px;
+
+color: #2B283A;
+}
+.journal--para{
+    font-weight: 400;
+font-size: 0.8em;
+line-height: 150%;
+/* or 15px */
+
+
+color: #2B283A;
+}
+.content {
+  margin: 40px 60px;
+}
+
+
 
