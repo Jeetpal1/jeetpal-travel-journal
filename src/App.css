@@ -34,11 +34,10 @@
   height: 200px;
 }
 .journal--details {
-    margin-left: 20px
+  margin-left: 20px;
 }
 
 .journal--links {
-  
   font-weight: 400;
   font-size: 0.8em;
   line-height: 12px;
@@ -48,37 +47,33 @@
 
   color: #918e9b;
 }
-.journal--location{
-    font-weight: 400;
-font-size: 1.5em;
-line-height: 12px;
-letter-spacing: 0.17em;
+.journal--location {
+  font-weight: 400;
+  font-size: 1.5em;
+  line-height: 12px;
+  letter-spacing: 0.17em;
 
-color: #2B283A;
+  color: #2b283a;
 }
-.journal--locater{
-    height: 1em;
+.journal--locater {
+  height: 1em;
 }
 
-.journal--date{
-    font-weight: 700;
-font-size: 0.9em;
-line-height: 12px;
+.journal--date {
+  font-weight: 700;
+  font-size: 0.9em;
+  line-height: 12px;
 
-color: #2B283A;
+  color: #2b283a;
 }
-.journal--para{
-    font-weight: 400;
-font-size: 0.8em;
-line-height: 150%;
-/* or 15px */
+.journal--para {
+  font-weight: 400;
+  font-size: 0.8em;
+  line-height: 150%;
+  /* or 15px */
 
-
-color: #2B283A;
+  color: #2b283a;
 }
 .content {
   margin: 40px 60px;
 }
-
-
-
