@@ -1,3 +1,8 @@
+A Glance of the final Project:
+
+![image](https://user-images.githubusercontent.com/70360391/166343554-ed0027bb-f671-47b3-a59b-70934cfa2654.png)
+
+Figma File: https://www.figma.com/file/HL7bWbX3hpXnrlyXg6xMU8/Travel-Journal-(Copy)?node-id=2%3A2
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
